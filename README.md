@@ -17,7 +17,7 @@ Message Broadcaster:
 
 <b> User Instructions </b>
 
-1. Download/Clone this repository.
+1. Download/Clone this repository
 
 ```
 $   git clone https://github.com/athiyadeviyani/FBbroadcaster/
@@ -27,13 +27,13 @@ $   git clone https://github.com/athiyadeviyani/FBbroadcaster/
 ```
 $   cd FBbroadcaster
 ```
-3. Install the requirement(s):
+3. Install the requirement(s)
 
 ```
 $   pip install fbchat
 ```
 
-4. Then run the script from the command line:
+4. Run the script from the command line
 
 ```
 $   python main.py
